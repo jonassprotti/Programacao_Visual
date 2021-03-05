@@ -1,0 +1,10 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csprojAssemblyReference.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.FrmCalculadora.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.pdb

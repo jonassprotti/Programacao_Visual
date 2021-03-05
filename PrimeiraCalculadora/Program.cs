@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FirstProject___CopyName
+namespace PrimeiraCalculadora
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace FirstProject___CopyName
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmNameCopier());
+            Application.Run(new FrmCalculadora());
         }
     }
 }
