@@ -143,6 +143,7 @@ namespace PrimeiraCalculadora
             this.Controls.Add(this.lblValorA);
             this.Name = "FrmCalculadora";
             this.Text = "Calculadora";
+            this.Load += new System.EventHandler(this.FrmCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

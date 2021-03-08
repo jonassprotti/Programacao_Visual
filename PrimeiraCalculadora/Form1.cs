@@ -70,5 +70,10 @@ namespace PrimeiraCalculadora
             lblResultado.Text = resultado.ToString();
             lblResultado.Visible = true;
         }
+
+        private void FrmCalculadora_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
