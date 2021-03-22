@@ -1,0 +1,7 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\bin\Debug\Teste.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\bin\Debug\Teste.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\bin\Debug\Teste.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\obj\Debug\Teste.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Teste\obj\Debug\Teste.pdb

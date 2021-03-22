@@ -1,0 +1,10 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\bin\Debug\Aula_18_03_21.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\bin\Debug\Aula_18_03_21.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\bin\Debug\Aula_18_03_21.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.csprojAssemblyReference.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.FrmMedia.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\Aula_18_03_21\obj\Debug\Aula_18_03_21.pdb
