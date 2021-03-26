@@ -1,0 +1,10 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\bin\Debug\MesDataExtenso.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\bin\Debug\MesDataExtenso.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\bin\Debug\MesDataExtenso.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.csprojAssemblyReference.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.FrmPrincipal.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\MesDataExtenso\obj\Debug\MesDataExtenso.pdb
