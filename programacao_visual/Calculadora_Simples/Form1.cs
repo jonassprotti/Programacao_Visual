@@ -51,11 +51,30 @@ namespace Calculadora_Simples
             rbSubtrair.Checked = false;
             rbMultiplicar.Checked = false;
             rbDividir.Checked = false;
+            txtX.Focus();
         }
 
         private void btnFechar_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void txtX_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != ','))
+            {
+                e.Handled = true;
+                MessageBox.Show("Informe um valor válido", "Calculadora", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void txtY_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != ','))
+            {
+                e.Handled = true;
+            }
+
         }
     }
 }

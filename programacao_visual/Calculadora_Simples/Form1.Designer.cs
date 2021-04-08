@@ -52,6 +52,7 @@ namespace Calculadora_Simples
             this.txtX.Name = "txtX";
             this.txtX.Size = new System.Drawing.Size(172, 20);
             this.txtX.TabIndex = 0;
+            this.txtX.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtX_KeyPress);
             // 
             // txtY
             // 
@@ -59,6 +60,7 @@ namespace Calculadora_Simples
             this.txtY.Name = "txtY";
             this.txtY.Size = new System.Drawing.Size(172, 20);
             this.txtY.TabIndex = 1;
+            this.txtY.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtY_KeyPress);
             // 
             // txtTotal
             // 
