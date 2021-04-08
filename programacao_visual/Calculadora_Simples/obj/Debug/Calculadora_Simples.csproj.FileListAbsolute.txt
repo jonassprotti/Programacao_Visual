@@ -1,0 +1,10 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\bin\Debug\Calculadora_Simples.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\bin\Debug\Calculadora_Simples.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\bin\Debug\Calculadora_Simples.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.csprojAssemblyReference.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.Form1.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Calculadora_Simples\obj\Debug\Calculadora_Simples.pdb
