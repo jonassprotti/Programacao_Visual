@@ -38,6 +38,12 @@ namespace Calculadora_Simples
             if (rbDividir.Checked)
             {
                 resultado = x / y;
+                if (y == 0)
+                {
+                    txtTotal.Text = "Divisão por zero";
+                    return;
+                }
+                
             }
             txtTotal.Text = resultado.ToString();
         }
@@ -64,7 +70,7 @@ namespace Calculadora_Simples
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != ','))
             {
                 e.Handled = true;
-                //MessageBox.Show("Informe um valor válido", "Calculadora", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Informe um valor válido", "Calculadora", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
