@@ -8,3 +8,13 @@ C:\Users\desktop\Documents\GitHub\Programacao_Visual\FirstProject - CopyName\Fir
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.exe
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.pdb
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject___CopyName.FrmNameCopier.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\bin\Debug\FirstProject - CopyName.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\bin\Debug\FirstProject - CopyName.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\bin\Debug\FirstProject - CopyName.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.csprojAssemblyReference.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject___CopyName.FrmNameCopier.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject___CopyName.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\FirstProject - CopyName\FirstProject - CopyName\obj\Debug\FirstProject - CopyName.pdb

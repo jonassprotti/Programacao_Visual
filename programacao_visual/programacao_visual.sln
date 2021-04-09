@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_Simples", "Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programacao_visual", "programacao_visual.csproj", "{6DBFF8C6-8718-4AD0-BA76-6B553EB70792}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animais", "Animais\Animais.csproj", "{8F30C2F8-780A-4EEB-8286-08A759620CE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6DBFF8C6-8718-4AD0-BA76-6B553EB70792}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DBFF8C6-8718-4AD0-BA76-6B553EB70792}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DBFF8C6-8718-4AD0-BA76-6B553EB70792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F30C2F8-780A-4EEB-8286-08A759620CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F30C2F8-780A-4EEB-8286-08A759620CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F30C2F8-780A-4EEB-8286-08A759620CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F30C2F8-780A-4EEB-8286-08A759620CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

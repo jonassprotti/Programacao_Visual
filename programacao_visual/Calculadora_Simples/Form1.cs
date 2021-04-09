@@ -19,33 +19,41 @@ namespace Calculadora_Simples
 
         private void btnCalculo_Click(object sender, EventArgs e)
         {
-            double x, y, resultado = 0;
-            x = Convert.ToDouble(txtX.Text);
-            y = Convert.ToDouble(txtY.Text);
+            try
+            {
+                double x, y, resultado = 0;
+                x = Convert.ToDouble(txtX.Text);
+                y = Convert.ToDouble(txtY.Text);
 
-            if (rbSomar.Checked)
-            {
-                resultado = x + y;
-            }
-            if (rbSubtrair.Checked)
-            {
-                resultado = x - y;
-            }
-            if (rbMultiplicar.Checked)
-            {
-                resultado = x * y;
-            }
-            if (rbDividir.Checked)
-            {
-                resultado = x / y;
-                if (y == 0)
+                if (rbSomar.Checked)
                 {
-                    txtTotal.Text = "Divisão por zero";
-                    return;
+                    resultado = x + y;
                 }
-                
+                if (rbSubtrair.Checked)
+                {
+                    resultado = x - y;
+                }
+                if (rbMultiplicar.Checked)
+                {
+                    resultado = x * y;
+                }
+                if (rbDividir.Checked)
+                {
+                    resultado = x / y;
+                    if (y == 0)
+                    {
+                        txtTotal.Text = "Divisão por zero";
+                        return;
+                    }
+
+                }
+                txtTotal.Text = resultado.ToString();
             }
-            txtTotal.Text = resultado.ToString();
+            catch(Exception erro)
+            {
+                MessageBox.Show("Preencha os campos!");
+            }
+            
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
