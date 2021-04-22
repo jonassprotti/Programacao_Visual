@@ -1,0 +1,10 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\bin\Debug\IMC.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\bin\Debug\IMC.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\bin\Debug\IMC.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.csprojAssemblyReference.cache

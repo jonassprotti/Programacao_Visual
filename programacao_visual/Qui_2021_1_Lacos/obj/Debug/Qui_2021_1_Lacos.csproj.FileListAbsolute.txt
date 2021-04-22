@@ -1,0 +1,9 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\bin\Debug\Qui_2021_1_Lacos.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\bin\Debug\Qui_2021_1_Lacos.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\bin\Debug\Qui_2021_1_Lacos.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\obj\Debug\Qui_2021_1_Lacos.Form1.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\obj\Debug\Qui_2021_1_Lacos.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\obj\Debug\Qui_2021_1_Lacos.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\obj\Debug\Qui_2021_1_Lacos.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\obj\Debug\Qui_2021_1_Lacos.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Lacos\obj\Debug\Qui_2021_1_Lacos.pdb
