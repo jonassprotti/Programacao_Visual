@@ -1,0 +1,8 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\bin\Debug\programacao_visual.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\bin\Debug\programacao_visual.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\bin\Debug\programacao_visual.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\obj\Debug\programacao_visual.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\obj\Debug\programacao_visual.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\obj\Debug\programacao_visual.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\obj\Debug\programacao_visual.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\obj\Debug\programacao_visual.pdb

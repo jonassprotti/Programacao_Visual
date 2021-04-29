@@ -1,0 +1,10 @@
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\bin\Debug\testeArrays.exe.config
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\bin\Debug\testeArrays.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\bin\Debug\testeArrays.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.Form1.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.Properties.Resources.resources
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.csproj.GenerateResource.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.exe
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\testeArrays\obj\Debug\testeArrays.csprojAssemblyReference.cache

@@ -1,6 +1,7 @@
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\bin\Debug\Qui_2021_1_Animais.exe.config
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\bin\Debug\Qui_2021_1_Animais.exe
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\bin\Debug\Qui_2021_1_Animais.pdb
+C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\obj\Debug\Qui_2021_1_Animais.csprojAssemblyReference.cache
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\obj\Debug\Qui_2021_1_Animais.Form1.resources
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\obj\Debug\Qui_2021_1_Animais.Properties.Resources.resources
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\Qui_2021_1_Animais\obj\Debug\Qui_2021_1_Animais.csproj.GenerateResource.cache

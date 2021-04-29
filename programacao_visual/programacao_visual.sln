@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qui_2021_1_Lacos", "Qui_202
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC", "IMC\IMC.csproj", "{AF6C916A-BCDE-4639-9BB7-2DB1E1875243}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeArrays", "testeArrays\testeArrays.csproj", "{4F74642E-0444-41E5-85E3-AA62145E9B0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{AF6C916A-BCDE-4639-9BB7-2DB1E1875243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF6C916A-BCDE-4639-9BB7-2DB1E1875243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF6C916A-BCDE-4639-9BB7-2DB1E1875243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F74642E-0444-41E5-85E3-AA62145E9B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F74642E-0444-41E5-85E3-AA62145E9B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F74642E-0444-41E5-85E3-AA62145E9B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F74642E-0444-41E5-85E3-AA62145E9B0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

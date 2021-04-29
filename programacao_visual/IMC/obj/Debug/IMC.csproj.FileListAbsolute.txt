@@ -7,4 +7,3 @@ C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.exe
 C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.pdb
-C:\Users\desktop\Documents\GitHub\Programacao_Visual\programacao_visual\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
